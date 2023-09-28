@@ -7,4 +7,5 @@ Then it produces learning curves and tables from the data produced. The 4 learni
 3) Logistic regression 
 4) Logistic regression by sklearn (for comparison purposes)**
 
+
 **For more information on learning algorithms, programming architecture, training and testing data functions, use cases and experimental results, check the Info.pdf file**
