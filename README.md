@@ -2,6 +2,7 @@
 
 **This program classifies movies from the imdb dataset as positive/negative using machine learning algorithms. 
 Then it produces learning curves and tables from the data produced.**
+
 The four learning algorithms used:
 1)Bernoulli Naive bayes 
 2) ID3 decision tree classifier 
