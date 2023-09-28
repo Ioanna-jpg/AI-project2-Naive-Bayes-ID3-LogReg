@@ -13,6 +13,7 @@ The four learning algorithms used:
 **For more information on learning algorithms, programming architecture, training and testing data functions, use cases and experimental results, check the Info.pdf file**
 
 How to execute the program:
-The project was performed in Python programming language with version 3.6.
+
 Open the .ipynb file in google colab.
 Run the Main cell after first loading the cells with all the necessary imports, functions and algorithm classes
+The project was performed in Python programming language with version 3.6.
